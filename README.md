@@ -1,4 +1,4 @@
-# Sentora
+# BusinessBox Business Hosting Panel(BHP)
 
 * Version: 1.0.3
 * [Website](http://sentora.org/)
