@@ -1,5 +1,6 @@
-# BusinessBox Business Hosting Panel(BHP)
+# IQL BusinessBox - Business Hosting Panel(BHP)
 
+* This fork is made for IQL BusinessBox BHP available on  [](http://sentora.org/)
 * Version: 1.0.3
 * [Website](http://sentora.org/)
 * [Forums](http://forums.sentora.org/) for comments, discussion and community support.
