@@ -1,14 +1,14 @@
 # IQL BusinessBox - Business Hosting Panel(BHP)
 
-* This fork is made for IQL BusinessBox BHP available on  [](http://sentora.org/)
+* This is an original fork of Sentora Used on BusinessBox as Business Hosting Panel (BHP). This fork is maintained by  [IQL Technologies](http://iqltech.com/businessbox)
 * Version: 1.0.3
-* [Website](http://sentora.org/)
+* [Website](http://businessbox.com/)
 * [Forums](http://forums.sentora.org/) for comments, discussion and community support.
 * [Bug Tracker](https://github.com/sentora/sentora-core/issues) for any bugs or security related issues.
 
 ## Description
 
-[Sentora](http://sentora.org) is based on an original fork of ZPanelCP, Sentora is an open-source web hosting control panel written in PHP and is designed to work with with Linux, UNIX and the BSD's.
+[BusinessBox BHP](http://iqltech.com/businessbox/bhp) is based on an original fork of ZPanelCP, Sentora is an open-source web hosting control panel written in PHP and is designed to work with with Linux, UNIX and the BSD's.
 
 Sentora is developed and maintained by the original ZPanel team members ([ballen](http://bobbyallen.me), tgates, kandrews, motters etc.)
 
